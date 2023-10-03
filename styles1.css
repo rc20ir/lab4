@@ -1,0 +1,50 @@
+.myContainer{
+    margin: 20px 10% 20px 10%;
+    border: purple 3px dotted;
+    padding: 300px 10% 20px 10%;
+}
+
+.redPara{
+    color: red
+}
+
+.greenPara{
+    color: green
+}
+
+.purplePara{
+    color: purple
+}
+
+.orangePara{
+    color: orange
+}
+
+.yellowPara{
+    color: yellow
+}
+
+.smallText{
+    font-size: 11px;
+}
+
+.largeText{
+    font-size: 30px;
+}
+
+.leftAlign{
+    text-align: left;
+}
+
+.rightAlign{
+    text-align: right;
+}
+
+.center{
+    text-align: center;
+}
+
+.upper{
+    font-size: 25px;
+    vertical-align: text-top;
+}
