@@ -1,0 +1,22 @@
+
+.myContainer{
+    margin: 5px 0.5% 5px 0.5%;
+    border: black 3px dotted;
+    padding: 5px 0.5% 5px 0.5%;
+}
+
+body{
+    background: Green
+}
+
+.redPara{
+    color: Red
+}
+
+.darkgreenPara{
+    color: DarkGreen
+}
+
+.indigoPara{
+    color: Indigo
+}
