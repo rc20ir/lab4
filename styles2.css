@@ -1,0 +1,31 @@
+.myContainer{
+    margin: 150px 20% 150px 20%;
+    width: 1000px;
+    border: black 3px solid;
+    padding: 10px;
+}
+
+body{
+    background: blue
+}
+
+.redPara{
+    color: Red
+}
+
+.greenDashed{
+    margin: 5px 0.5% 5px 0.5%;
+    border: green 2px dashed;
+    padding: 5px 0.5% 5px 0.5%;
+}
+
+.yellowDashed{
+    margin: 10px -1% -10px -1%;
+    border: yellow 2px dashed;
+    padding: 5px 0.5% 5px 0.5%;
+}
+
+.img{
+    width: 300px;
+    height: 500px;
+}
